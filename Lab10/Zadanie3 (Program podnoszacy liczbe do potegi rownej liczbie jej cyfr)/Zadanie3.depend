@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578742893 source:c:\users\asus\desktop\wdp\zrobione zadania lab10 (zadania do kolokwium)\zadanie3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
